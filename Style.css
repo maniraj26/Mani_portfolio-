@@ -101,7 +101,7 @@ header{
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  border: 6px solid #FFD700;
+  border: 6px solid #1B263B;
   object-fit: cover;
   background: #222;
 }
@@ -110,7 +110,7 @@ header{
   margin-bottom: 6px;
 }
 .about-label {
-  color: #FFD700;
+  color:#1B263B;
   font-weight: 500;
 }
 .about-skills {
@@ -132,7 +132,7 @@ header{
   margin-top: 3px;
 }
 .about-bar {
-  background: #FFD700;
+  background: #1B263B;
   height: 8px;
   border-radius: 4px;
 }
@@ -167,7 +167,7 @@ header{
   display: flex;
   font-size: 1.3rem;
   font-weight: 600;
-  color: #FFD700;
+  color:#1B263B;
   margin-bottom: 20px;
   justify-content: start;
 }
@@ -180,7 +180,7 @@ header{
 }
 .about-linkedin {
   display:inline-flex;
-  background: #FFD700;
+  background: #1B263B;
   color: #111;
   font-weight: 600;
   padding: 8px 30px;
@@ -193,7 +193,7 @@ header{
   box-sizing: content-box;
 }
 .about-linkedin:hover {
-  background: #fff200;
+  background: #1B263B;
 }
 /* --- skill Section Styles --- */
 .skill_section h2{ 
@@ -231,7 +231,7 @@ header{
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  border: 6px solid #FFD700;
+  border: 6px solid #1B263B;
   object-fit: cover;
   background: #222;
 }
@@ -240,7 +240,7 @@ header{
   margin-bottom: 6px;
 }
 .skill-label {
-  color: #FFD700;
+  color:#1B263B;
   font-weight: 500;
 }
 .skill-skills {
@@ -262,7 +262,7 @@ header{
   margin-top: 3px;
 }
 .skill-bar {
-  background: #FFD700;
+  background: #1B263B;
   height: 8px;
   border-radius: 4px;
 }
@@ -298,7 +298,7 @@ header{
 .skill-projects {
   font-size: 1.3rem;
   font-weight: 600;
-  color: #FFD700;
+  color: #1B263B;
   margin-bottom: 10px;
 }
 .skill-projects span {
@@ -308,7 +308,7 @@ header{
 }
 .skill-linkedin {
   display: inline-block;
-  background: #FFD700;
+  background: #1B263B;
   color: #111;
   font-weight: 600;
   padding: 8px 30px;
@@ -319,10 +319,10 @@ header{
   transition: background 0.2s;
 }
 .skill-linkedin:hover {
-  background: #fff200;
+  background: #1B263B;
 }
 .skill-Git_hub {
-  color: #fff200;
+  color: #1B263B;
   border-radius: 20px;
 }
 
@@ -475,10 +475,10 @@ header{
 .contact-form input:focus,
 .contact-form textarea:focus {
   outline: none;
-  border-color: #FFD700;
+  border-color: #1B263B;
 }
 .contact-form button {
-  background: #FFD700;
+  background: #1B263B;
   color: #111;
   font-weight: 600;
   border: none;
@@ -489,8 +489,9 @@ header{
   transition: backgroun 0.2s;
 }
 .contact-form button:hover {
-  background: #fff200;
+  background: #1B263B;
 }
+
 
 
 
